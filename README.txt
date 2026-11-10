@@ -1,1 +1,2 @@
-MEDWARE Stock CRHF V4.4 – visualisation compacte par référence, lots/séries dépliables, filtres, tri, pagination. Même base IndexedDB que V4.3.1. Sauvegardez votre JSON avant mise à jour. Déployez tous les fichiers à la racine GitHub Pages.
+MEDWARE Stock CRHF V4.5 — import PDF MEDWARE (texte sélectionnable) + Excel.
+Importer un PDF détaillé MEDWARE, vérifier le total annoncé et extrait. Si discordance, validation bloquée pour protéger le stock. Sauvegarder le JSON avant déploiement. Nécessite internet pour pdf.js.
