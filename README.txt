@@ -1,1 +1,1 @@
-MEDWARE Stock CRHF V4.6 — correction manuelle des lignes PDF, contrôle total et validation explicite. Sauvegarder les données JSON avant mise à jour. Ne jamais importer un état ancien comme état actuel sans vérification.
+MEDWARE Stock CRHF V4.7 - Import assisté de bons de dépôt, retour et fiches d’intervention (PDF/photo OCR), sélection manuelle des lignes, saisie manuelle avec désignation automatique. OCR nécessite Internet, relecture obligatoire. Sauvegardez JSON avant mise à jour.
