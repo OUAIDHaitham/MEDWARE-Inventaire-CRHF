@@ -1,2 +1,1 @@
-MEDWARE Stock CRHF V4.5 — import PDF MEDWARE (texte sélectionnable) + Excel.
-Importer un PDF détaillé MEDWARE, vérifier le total annoncé et extrait. Si discordance, validation bloquée pour protéger le stock. Sauvegarder le JSON avant déploiement. Nécessite internet pour pdf.js.
+MEDWARE Stock CRHF V4.6 — correction manuelle des lignes PDF, contrôle total et validation explicite. Sauvegarder les données JSON avant mise à jour. Ne jamais importer un état ancien comme état actuel sans vérification.
